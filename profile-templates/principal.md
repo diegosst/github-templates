@@ -1,16 +1,7 @@
-<style>
-    @import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
-    @import url('https://fonts.googleapis.com/css?family=Julee&display=swap');
-    #h1,h2,h3,h4,span,summary {
-        font-family: Roboto;
-    }
-</style>
-
-
 <h1 align="center">Solution Architect</h1>
 
 <p align="center">
-    <span style="font-family: 'Julee'; font-size: 20px;">The best of us is yet to come!</span>
+    <span style="font-size: 20px;">The best of us is yet to come!</span>
 </p>
 
 <p>
@@ -18,17 +9,17 @@
 </p>
 <br>
 <br>
-<span>
-    Hey, good to see you here!
-    <br>
-    My name is Diego Santos and I have been working with development and architecture since 2014.
-    <br>
-    Most of my career experience is with the e-commerce business, scoping, designing, implementing and tuning project platforms for many companies.
-    <br>
-    You can find my experiences and skills here.
-</span>
-<h1 align="center"></h1>
+
+Hey, good to see you here!
+
+My name is Diego Santos and I have been working with development and architecture since 2014.
+
+Most of my career experience is with the e-commerce business, scoping, designing, implementing and tuning project platforms for many companies.
+
+You can find my experiences and skills here.
+
 <br>
+
 <h2><b>Knowledge Stack:</b></h2>
 <br>
 <h3 align="center"><b>Backend</b></h3>
@@ -156,7 +147,7 @@
 <br>
 
 <details>
-    <summary>Ver mais</summary>
+    <summary>See more</summary>
     <h3 align="center"><b>Communication</b></h3>
     <table align="center">
         <tr>
@@ -295,14 +286,14 @@
         </tr>
     </table>
 </details>
-<h1 align="center"></h1>
 <h2><b>Overview:</b></h2>
 <br>
-<p align="center" style="margin-bottom: 200px">
+<p align="center">
     <img align="left" width="350px" height="150px" src="https://github-readme-stats.vercel.app/api?username=diegosst&count_private=true&show_icons=true&theme=dark" />
     <img align="right" width="350px" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegosst&layout=compact&theme=dark&langs_count=9" />
 </p>
-<p align="center" style="margin-top: 20px;">
+<br><br><br><br><br><br><br>
+<p align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
         <img src="https://github-profile-trophy.vercel.app/?username=diegosst&theme=tokyonight&no-frame=true&row=1&&margin-w=10&no-bg=false" width="600px"/>
     </a>
@@ -320,10 +311,10 @@
     <span>Contact me on my social medias:</span>
     <br>
     <br>
-    <a href="https://www.linkedin.com/in/diegosousa/">
+    <a href="https://www.linkedin.com/in/diegosousa/" target="_blank">
         <img src="https://camo.githubusercontent.com/c8a9c5b414cd812ad6a97a46c29af67239ddaeae08c41724ff7d945fb4c047e5/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6c696e6b6564696e2e737667" width="50px"/>
     </a>
-    <a href="https://www.instagram.com/diego.sst/">
+    <a href="https://www.instagram.com/diego.sst/" target="_blank">
         <img src="https://camo.githubusercontent.com/c9dacf0f25a1489fdbc6c0d2b41cda58b77fa210a13a886d6f99e027adfbd358/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f696e7374616772616d2e737667" width="50px"/>
     </a>
 </p>
