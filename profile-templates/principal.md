@@ -302,8 +302,7 @@
     <img align="left" width="350px" height="150px" src="https://github-readme-stats.vercel.app/api?username=diegosst&count_private=true&show_icons=true&theme=dark" />
     <img align="right" width="350px" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegosst&layout=compact&theme=dark&langs_count=9" />
 </p>
-<br>
-<p align="center">
+<p align="center" style="margin-top: 20px;">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
         <img src="https://github-profile-trophy.vercel.app/?username=diegosst&theme=tokyonight&no-frame=true&row=1&&margin-w=10&no-bg=false" width="600px"/>
     </a>
